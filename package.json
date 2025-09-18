@@ -1,0 +1,24 @@
+{
+    "name": "com.hy.ExtentionsAndHelpers",
+    "version": "1.0.0",
+    "displayName": "Extentions And Helpers",
+    "description": "A simple sound management system for Unity projects.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Hakan Yuksel",
+        "email": "hakanyuksel.3te@gmail.com",
+        "url": "https://www.linkedin.com/in/hakanyuksel/"
+    },
+    "keywords": [
+        "audio",
+        "sound",
+        "manager"
+    ],
+    "samples": [
+        {
+            "displayName": "Example Setup",
+            "description": "Sample scene and prefabs for testing SoundManager.",
+            "path": "Samples~"
+        }
+    ]
+}
